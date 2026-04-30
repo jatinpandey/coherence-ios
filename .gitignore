@@ -1,0 +1,22 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdatad/
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# CocoaPods / Carthage / SPM
+Pods/
+Carthage/Build/
+.build/
+.swiftpm/
+
+# macOS
+.DS_Store
