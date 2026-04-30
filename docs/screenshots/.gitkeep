@@ -1,0 +1,4 @@
+Drop screenshots here:
+- home.png      — ContentView home screen (orb, stats, run button)
+- session.png   — active breathing session with pulsing orb
+- settings.png  — SettingsView sheet (presets, pattern, toggles)
