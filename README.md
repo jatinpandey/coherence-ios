@@ -6,7 +6,7 @@ Native SwiftUI breathing/coherence trainer for iPhone. Configurable patterns, pu
 
 | Home | Session | Settings |
 | :--: | :--: | :--: |
-| ![Home screen](docs/screenshots/home.png) | ![Active session](docs/screenshots/session.png) | ![Settings sheet](docs/screenshots/settings.png) |
+| ![Home screen](docs/screenshots/home.jpg) | ![Active session](docs/screenshots/session.jpg) | ![Settings sheet](docs/screenshots/settings.jpg) |
 
 ## Run
 
